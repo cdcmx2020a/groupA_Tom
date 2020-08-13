@@ -2,6 +2,9 @@
 
 Links & Resources for Tom's group in the Clubes de Ciencia Challenge, as part of Group A. 
 
+The main link for materials we are using in this Club is here:
+https://drive.google.com/drive/folders/1DybQy6tAGm36q6xEkQOOsWoK-wRP1yT7
+
 ## Interacting with Materials
 
 Google Colab: https://colab.research.google.com/
@@ -22,7 +25,6 @@ Course materials:
 https://introductorypython.github.io/docs/index.html
 
 Assignments are available in this shared folder:
-
 https://drive.google.com/drive/folders/1ugzSz2zgsFqBvXLjes80eO7025-_EHAT?usp=sharing
 
 From here, you can open the notebooks in Google Colab. 
@@ -39,4 +41,3 @@ Assignments:
 In this course, assignments are available on the website. 
 You can download assignments from the website (click on the button at the top right of the screen). 
 If you want to run these files in Google Colab, add them to your Google drive, and open them from there.
-    
